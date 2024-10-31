@@ -38,12 +38,15 @@ button{
     font-family: Comic Sans MS, Comic Sans, cursive;
     font-size: 20px;
 }
+#home1{
+  text-align: center;
+}
 option{
     font-family: Comic Sans MS, Comic Sans, cursive;
     font-size: 25px;
 }
 body {
-    background-color: #71d171;
+    background-color: #00845c;
   }
   h1 {
     color: rgb(8, 8, 8);
@@ -71,8 +74,10 @@ body {
   }
   p {
     color: rgb(8, 8, 8);
-    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
     margin: 3px;
   }
-  
+  #inpult2{
+    text-align: center;
+  }
